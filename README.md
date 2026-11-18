@@ -8,3 +8,4 @@ Farg‘ona, 8-sinf. Dasturlashni o‘rganyapman.
  
 ## Loyihalarim
 - [men-haqimda](https://github.com/ali-valiyev/men-haqimda)
+- Men Muminov Muhammadazizman
